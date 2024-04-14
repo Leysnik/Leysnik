@@ -12,7 +12,7 @@
 ### Android apps and Java projects
 I studied Java, libraries(like Retrofit, GSON) the basics of mobile and server development, working with API(OpenWeatherMap, NASA), while studying at Samsung IT school.
 
-
+## Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leysnik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Leysnik/Leysnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
