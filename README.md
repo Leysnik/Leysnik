@@ -3,6 +3,8 @@
 ### 💡 Field of activity: Web, Android apps, arduino based projects
 
 ## My repo
+### Project for [Python in data science (HSE course)](https://www.hse.ru/edu/courses/839662555). Worked with Python, Flask, Pandas, seaborn, Flask_SQLAlchemy.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leysnik&repo=EAS-python)](https://github.com/Leysnik/EAS-python)
 ### Project for [ITSolSchool](https://itsolschool.ru/). Worked with PHP, MySQL, AJAX requests
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leysnik&repo=itsolschool_Project-php)](https://github.com/Leysnik/itsolschool_Project-php)
 ### Arduino based project to control the adress LED strip by IR-remote. Worked with FastLED, EEPROM and IRRemote
