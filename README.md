@@ -7,11 +7,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leysnik&repo=EAS-python)](https://github.com/Leysnik/EAS-python)
 ### Project for [ITSolSchool](https://itsolschool.ru/). Worked with PHP, MySQL, AJAX requests
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leysnik&repo=itsolschool_Project-php)](https://github.com/Leysnik/itsolschool_Project-php)
-### Arduino based project to control the adress LED strip by IR-remote. Worked with FastLED, EEPROM and IRRemote
+### Arduino based project to control the house heating system. Worked with LiquidCrystal display, keypad and thermistors
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leysnik&repo=SmartHome-arduino)](https://github.com/Leysnik/SmartHome-arduino)
 ### Android apps and Java projects
 I studied Java, libraries(like Retrofit, GSON) the basics of mobile and server development, working with API(OpenWeatherMap, NASA), while studying at Samsung IT school.
-### Arduino based project to control the house heating system. Worked with LiquidCrystal display, keypad and thermistors
+### Arduino based project to control the adress LED strip by IR-remote. Worked with FastLED, EEPROM and IRRemote
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leysnik&repo=HyperCube-arduino)](https://github.com/Leysnik/HyperCube-arduino)
 
 ## Statistics
